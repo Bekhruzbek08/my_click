@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="my_click">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_click.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
